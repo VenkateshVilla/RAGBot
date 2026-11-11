@@ -1,0 +1,7 @@
+{
+  "_comment": "keyword -> natural-language aliases. Aliases are case-insensitive and may appear inside a longer sentence.",
+  "playarc":     ["playwright architecture", "how does playwright work", "playwright design"],
+  "playfixture": ["playwright fixtures", "playwright fixture", "test fixtures in playwright"],
+  "selthrows":   ["java throws", "throws keyword", "selenium throws", "java exceptions throws"],
+  "apipost":     ["post method", "http post", "api post", "how to send a post request"]
+}
